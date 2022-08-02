@@ -33,6 +33,7 @@
 
 .icon-dot:before {
   content: "\e605";
+  font-size: 20px;
 }
 
 .icon-link:before {
